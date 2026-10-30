@@ -1,0 +1,15 @@
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.glass-card {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+
+.dark .glass-card {
+    background: rgba(30, 41, 59, 0.7);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
